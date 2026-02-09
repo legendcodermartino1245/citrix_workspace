@@ -8,19 +8,19 @@
 
 ### File access
 
-file access settings: Read and write
+file access settings: No acess rationale cant copy anyways
 
 ### Connections
 Microphones and webcams
-Connect automatically
+Do not connnect rationale  dont use it in vdi
 
 Digital cameras and scanners
-Connect automatically
+Do not connnect rationale dont use it in vdi
 
 Default webcam
 system default
 
-enable blackground blur
+enable blackground blur unchecked
 
 Default speaker
 system default
@@ -45,3 +45,6 @@ Best resolution (Recommended)
 monitor layout
 DPI 100
 Horizontal selected
+
+
+productivity note: text copy paste works from vdi to local and back
