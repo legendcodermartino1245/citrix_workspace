@@ -38,11 +38,10 @@ constrain pointer to window  checked
 
 apply window scaling to mouse movement checked
 
-Display Best resolution (Recommended)
+## Display
+
+Best resolution (Recommended)
 
 monitor layout
 DPI 100
 Horizontal selected
-
-## Display
-
