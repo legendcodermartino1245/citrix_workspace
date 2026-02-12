@@ -48,3 +48,5 @@ Horizontal selected
 
 
 productivity note: text copy paste works from vdi to local and back
+
+monitor layout i disable my laptop monitor because i cant move out of the session in one go
