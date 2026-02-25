@@ -54,3 +54,4 @@ monitor layout i disable my laptop monitor because i cant move out of the sessio
 
 dont save passwords in edge that will create account lockouts it seems
 
+If black box is gone disconnect your session instead of logging off.
