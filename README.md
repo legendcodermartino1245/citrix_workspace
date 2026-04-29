@@ -58,3 +58,12 @@ If black box is gone disconnect your session instead of logging off.
 
 
 the citrix workspace web app has a timeout of one minute. You can use an auto refresher to stay logged in.
+
+
+
+
+C:\Users\<your-user>\AppData\Roaming\ICAClient\wfclient.ini
+add
+; --- stability fixes ---
+UseD3DHybrid=Off
+HWAcceleration=Off
